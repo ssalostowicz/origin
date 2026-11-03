@@ -5,4 +5,4 @@ test trzeci
 
 kolejny tekst zostal dodany
 
-jescze wiecej tekstu
+jescze wiecej tekstu, bo czemu nie
